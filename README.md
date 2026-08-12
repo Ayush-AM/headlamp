@@ -20,6 +20,12 @@ Headlamp was created to blend the traditional feature set of other web UIs/dashb
   <img src="https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/videos/headlamp_quick_run.gif" width="80%">
 </div>
 
+
+## Tech Stack
+
+- **Languages**: TypeScript, Go, JavaScript, Shell, Makefile, PowerShell, HTML, Dockerfile, CSS, Go Template
+- **Frameworks & Libraries**: Docker
+
 ## Features
 
 - Vendor-independent / generic Kubernetes UI
